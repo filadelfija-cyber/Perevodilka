@@ -1,0 +1,236 @@
+@font-face {
+  font-family: 'Acathist-Regular';
+  src:        url('fonts/Acathist-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Acathist-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Cathisma-Regular';
+  src:        url('fonts/Cathisma-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Cathisma-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Fedorovsk-Regular';
+  src:        url('fonts/Fedorovsk-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Fedorovsk-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'FiraSlav-Bold';
+  src:        url('fonts/FiraSlav-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'FiraSlav-Bold', sans-serif;
+} */
+
+@font-face {
+  font-family: 'FiraSlav-Regular';
+  src:        url('fonts/FiraSlav-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'FiraSlav-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Indiction-Regular';
+  src:        url('fonts/Indiction-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Indiction-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Menaion-Regular';
+  src:        url('fonts/Menaion-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Menaion-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Monomakh-Regular';
+  src:        url('fonts/Monomakh-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Monomakh-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Oglavie-Regular';
+  src:        url('fonts/Oglavie-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Oglavie-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Pochaevsk-Regular';
+  src:        url('fonts/Pochaevsk-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Pochaevsk-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Pomorsky-Regular';
+  src:        url('fonts/Pomorsky-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Pomorsky-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Ponomar-Regular';
+  src:        url('fonts/Ponomar-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Ponomar-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Shafarik-Regular';
+  src:        url('fonts/Shafarik-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Shafarik-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Triodion-Regular';
+  src:        url('fonts/Triodion-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Triodion-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Vertograd-Regular';
+  src:        url('fonts/Vertograd-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Vertograd-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Vilnius-Regular';
+  src:        url('fonts/Vilnius-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Vilnius-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Voskresensky-Regular';
+  src:        url('fonts/Voskresensky-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Usage example:
+body {
+  font-family: 'Voskresensky-Regular', sans-serif;
+} */
+
+@font-face {
+  font-family: 'Hirmos';
+  src:        url('fonts/Hirmos.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Evangelie';
+  src:        url('fonts/Evangelie.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

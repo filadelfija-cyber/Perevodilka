@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=5.0, minimum-scale=0.86">
+
+	<title>Переводилка с гражданского шрифта на ЦСЯ</title>
+
+	<link rel="stylesheet" href="global.css">
+	<link rel="stylesheet" href="bundle.css">
+	<link rel="stylesheet" href="fonts.css" type="text/css">
+
+
+
+</head>
+
+<body>
+	<!-- 1. Данные (большой файл, грузится первым) -->
+    <script src="data-assets.js"></script>
+
+    <!-- 2. Перехват fetch (должен быть до bundle.js!) -->
+    <script src="data-assets-bootstrap.js"></script>
+
+    <!-- 3. Основной скрипт -->
+    <script src="bundle.js"></script>
+
+<main class="svelte-1nithne"><div><h1 class="svelte-1nithne">Переводилка</h1> <h2 class="svelte-1nithne">(из гражданской в церковнославянскую орфографию)</h2> <div class="notes svelte-1nithne">Регистр:
+            <input type="radio" value="match" class="svelte-1nithne"> тот же
+            <input type="radio" value="lower" class="svelte-1nithne"> нижний
+            <input type="radio" value="upper" class="svelte-1nithne"> верхний
+            <input type="checkbox" class="svelte-1nithne"> цифирь
+            <a class="src svelte-1nithne" href="https://github.com/slavonic/translator">github.com/slavonic/translator</a></div></div> <div class="slavonic border svelte-1nithne"><span></span></div> <div><textarea placeholder="Набираем текст в гражданской орфографии здесь. Например: во имя отца и сына и святаго духа, аминь
+
+Для ударений можно использовать символ одиночной правой кавычки ( ' ).
+
+Напоминаем, что перевод не 100% правильный и требуется вычитка результата.
+" spellcheck="false" class="svelte-1nithne">
+</textarea>
+</div>
+</main>
+</body>
+</html>
