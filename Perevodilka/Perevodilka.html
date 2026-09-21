@@ -10,7 +10,20 @@
 	<link rel="stylesheet" href="bundle.css">
 	<link rel="stylesheet" href="fonts.css" type="text/css">
 
-
+<style>
+    .font-picker select {
+        font-family: inherit;
+        font-size: 0.95em;
+        padding: 2px 6px;
+        border: 1px solid #888;
+        border-radius: 4px;
+        background: #fff;
+        cursor: pointer;
+    }
+    .font-picker select:hover {
+        border-color: #444;
+    }
+</style>
 
 </head>
 
@@ -23,6 +36,7 @@
 
     <!-- 3. Основной скрипт -->
     <script src="bundle.js"></script>
+<script src="font-picker.js"></script> 
 
 <main class="svelte-1nithne"><div><h1 class="svelte-1nithne">Переводилка</h1> <h2 class="svelte-1nithne">(из гражданской в церковнославянскую орфографию)</h2> <div class="notes svelte-1nithne">Регистр:
             <input type="radio" value="match" class="svelte-1nithne"> тот же
